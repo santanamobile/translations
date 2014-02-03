@@ -1,0 +1,4 @@
+translations
+============
+
+Traduções de aplicativos
