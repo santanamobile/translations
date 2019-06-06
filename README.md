@@ -1,4 +1,4 @@
 translations
 ============
 
-Traduções de aplicativos
+Translations of some open source projects.
